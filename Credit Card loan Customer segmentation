@@ -1,0 +1,1 @@
+This folder contains the Jupyter file for the model build and the code for segmentation of the customers on the likelihood of gettig their loans approved . The customers are bucketized into high mediul and low conversion rate.
